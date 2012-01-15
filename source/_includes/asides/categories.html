@@ -1,0 +1,10 @@
+<section>
+  <h1>Потоки</h1>
+  <ul id="categories">
+    {% for category in site.categories %}
+      <li class="category">
+        <a href="{{ root_url }}/categories/{{ category[0] }}/">{{ category[0] }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>

@@ -1,0 +1,57 @@
+---
+author: Teona Kangelari
+photos: 'Anton Vasyunin, Vladimir Parshin'
+date: '2011-04-29 20:25:34'
+layout: post
+slug: party
+status: publish
+title: Вечеринка
+wordpress_id: '745'
+categories:
+- События
+tags:
+- open source
+- вечеринка
+- газета шум
+- отдых
+---
+
+В этот четверг шёл снег, а в прошлый было плюс двадцать пять, это лето стало
+на неделю ближе и на полмесяца дальше.
+
+В пять вечера мы приехали к месту нашей вечеринки, а в шесть часов десять
+минут мы её начали.
+
+Если уложить её в цифры, то получится вот что: три пары рук, три лектора,
+тридцать с чем-то гостей, один моном, две камеры, пять метров кабеля, очень
+много чашек чая — до, во время и после, двадцать пять дисков с убунту, четыре
+спонсора, один твистер и шестнадцать карточек для мафии.
+
+Мне всё время кажется, что я что-то упустила и не сосчитала, но было много
+такого, чего нельзя сосчитать.
+
+[![Во время лекции о свободном софте](https://lh5.googleusercontent.com/-zy6F2zVSMX0/Tw75EUed3VI/AAAAAAAAAhU/9NoiLMifjBI/s320/img_3621_800.jpg)][1]
+[![Гости поддерживают лектора](https://lh3.googleusercontent.com/-_vZT-fg8Eho/Tw75EgOygyI/AAAAAAAAAhY/3DKt0aLVEUk/s320/img_3623_800.jpg)][2]
+
+[![Игра в «гик-мафию»](https://lh4.googleusercontent.com/-hlAhbpLaO7c/Tw75EyBG99I/AAAAAAAAAhc/-SWuTbmiBls/s320/img_3677_800.jpg)][3]
+[![Андрей](https://lh4.googleusercontent.com/-oKcXlj4a9qA/Tw75E-B-vhI/AAAAAAAAAhg/NVSyjyVTV3U/s320/img_3683_800.jpg)][4]
+
+[![Выступление Артёма](https://lh6.googleusercontent.com/-Ma7D4iosUNA/Tw75FMaraAI/AAAAAAAAAhk/HUSG2NBadW4/s320/img_3686_1_800.jpg)][5]
+[![Гости интересуются мономом](https://lh5.googleusercontent.com/-N9SEybpu2-E/Tw75IeUJ3LI/AAAAAAAAAiM/G1anWOU9cX4/s320/img_3689_800.jpg)][6]
+
+[![Игра в «гик-мафию»](https://lh6.googleusercontent.com/-cAsmp-QpaXA/Tw75Flr1lbI/AAAAAAAAAh8/ElcSF5Ai02s/s320/img_3711_800.jpg)][7]
+[![Вечеринка](https://lh5.googleusercontent.com/-O9HzyrsqqfY/Tw75F7En-kI/AAAAAAAAAh0/fSkYithEFEk/s320/img_3718_800.jpg)][8]
+
+_Больше фотографий — на [Flickr][1]_
+
+   [1]: http://www.flickr.com/photos/gazetashum/sets/72157626480436631/
+
+   [2]: http://www.flickr.com/photos/gazetashum/5667952957/in/set-72157626480436631/
+   [3]: http://www.flickr.com/photos/gazetashum/5668583823/in/set-72157626480436631/
+   [4]: http://www.flickr.com/photos/gazetashum/5668522602/in/set-72157626480436631/
+   [5]: http://www.flickr.com/photos/gazetashum/5668583989/in/set-72157626480436631/
+   [6]: http://www.flickr.com/photos/gazetashum/5669155052/in/set-72157626480436631/
+   [7]: http://www.flickr.com/photos/gazetashum/5669155144/in/set-72157626480436631/
+   [8]: http://www.flickr.com/photos/gazetashum/5667953551/in/set-72157626480436631/
+   [9]: http://www.flickr.com/photos/gazetashum/5669012341/in/set-72157626480436631/
+

@@ -1,0 +1,8 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+footer .photos:before {
+	content: "\2022 ";
+	padding: 0 .4em 0 .2em;
+	display: inline-block
+}

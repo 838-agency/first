@@ -1,0 +1,6 @@
+{% if post.photos %}
+	{% assign photos = post.photos %}
+{% elsif page.photos %}
+	{% assign photos = page.photos %}
+{% endif %}
+{% if photos %}<span class="byline photos vcard">Фото: <span class="fn">{{ photos }}</span></span>{% endif %}
