@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Поток: События | Газета «Шум»]]></title>
-  <link href="http://gazeta-shum.github.com/first/categories/События/atom.xml" rel="self"/>
-  <link href="http://gazeta-shum.github.com/first/"/>
-  <updated>2012-01-15T20:21:37+07:00</updated>
-  <id>http://gazeta-shum.github.com/first/</id>
+  <link href="http://first.gazeta-shum.ru//categories/События/atom.xml" rel="self"/>
+  <link href="http://first.gazeta-shum.ru//"/>
+  <updated>2012-01-16T22:19:27+07:00</updated>
+  <id>http://first.gazeta-shum.ru//</id>
   <author>
     <name><![CDATA[Газета «Шум»]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Вечеринка]]></title>
-    <link href="http://gazeta-shum.github.com/first/2011/04/29/party/"/>
+    <link href="http://first.gazeta-shum.ru//2011/04/29/party/"/>
     <updated>2011-04-29T20:25:34+07:00</updated>
-    <id>http://gazeta-shum.github.com/first/2011/04/29/party</id>
+    <id>http://first.gazeta-shum.ru//2011/04/29/party</id>
     <content type="html"><![CDATA[<p>В этот четверг шёл снег, а в прошлый было плюс двадцать пять, это лето стало
 на неделю ближе и на полмесяца дальше.</p>
 
@@ -50,9 +50,9 @@
   
   <entry>
     <title type="html"><![CDATA[Вечеринка Natty release party 28 апреля]]></title>
-    <link href="http://gazeta-shum.github.com/first/2011/04/18/natty/"/>
+    <link href="http://first.gazeta-shum.ru//2011/04/18/natty/"/>
     <updated>2011-04-18T20:03:51+07:00</updated>
-    <id>http://gazeta-shum.github.com/first/2011/04/18/natty</id>
+    <id>http://first.gazeta-shum.ru//2011/04/18/natty</id>
     <content type="html"><![CDATA[<p>Дорогие друзья и любезные читатели, мы наконец-то приглашаем вас на вечеринку!</p>
 
 <p><strong>Кто?</strong> Газета «Шум» и Горно-Алтайская группа пользователей Linux, при поддержке комплекса «Под горой», фотостудии <a href="http://valuter.ru/">VALUTER</a>, креативного агентства «Большая рыба» и интернет-кафе «Паутина».<br/>
@@ -83,9 +83,9 @@
   
   <entry>
     <title type="html"><![CDATA[И полетели]]></title>
-    <link href="http://gazeta-shum.github.com/first/2010/12/18/fly/"/>
+    <link href="http://first.gazeta-shum.ru//2010/12/18/fly/"/>
     <updated>2010-12-18T03:39:25+06:00</updated>
-    <id>http://gazeta-shum.github.com/first/2010/12/18/fly</id>
+    <id>http://first.gazeta-shum.ru//2010/12/18/fly</id>
     <content type="html"><![CDATA[<p>Семнадцатого декабря в 11.40 — всё, как обещали. Ничего не отменилось, ничего
 не сломалось, самолёт приземлился вовремя, по расписанию.</p>
 
@@ -132,9 +132,9 @@
   
   <entry>
     <title type="html"><![CDATA[В Горно-Алтайске действует пункт приёма ртутных ламп]]></title>
-    <link href="http://gazeta-shum.github.com/first/2010/11/18/lamps/"/>
+    <link href="http://first.gazeta-shum.ru//2010/11/18/lamps/"/>
     <updated>2010-11-18T21:54:38+06:00</updated>
-    <id>http://gazeta-shum.github.com/first/2010/11/18/lamps</id>
+    <id>http://first.gazeta-shum.ru//2010/11/18/lamps</id>
     <content type="html"><![CDATA[<p>Для начала немного сухих фактов и дат: известно, что с первого января
 следующего года вступит в силу запрет на использование ламп накаливания
 мощностью более 100 Вт. К 2014 году власти планируют полностью отказаться от

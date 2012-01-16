@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Поток: Двадцать первый | Газета «Шум»]]></title>
-  <link href="http://gazeta-shum.github.com/first/categories/Двадцать-первый/atom.xml" rel="self"/>
-  <link href="http://gazeta-shum.github.com/first/"/>
-  <updated>2012-01-15T20:21:37+07:00</updated>
-  <id>http://gazeta-shum.github.com/first/</id>
+  <link href="http://first.gazeta-shum.ru//categories/Двадцать-первый/atom.xml" rel="self"/>
+  <link href="http://first.gazeta-shum.ru//"/>
+  <updated>2012-01-16T22:19:27+07:00</updated>
+  <id>http://first.gazeta-shum.ru//</id>
   <author>
     <name><![CDATA[Газета «Шум»]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Инструменты общественного контроля]]></title>
-    <link href="http://gazeta-shum.github.com/first/2011/02/20/control/"/>
+    <link href="http://first.gazeta-shum.ru//2011/02/20/control/"/>
     <updated>2011-02-20T14:48:23+06:00</updated>
-    <id>http://gazeta-shum.github.com/first/2011/02/20/control</id>
+    <id>http://first.gazeta-shum.ru//2011/02/20/control</id>
     <content type="html"><![CDATA[<p>Один из эмпирических законов, высказанных создателем ядра Linux Линусом
 Торвальдсом, известный как «<a href="http://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%9B%D0%B8%D0%BD%D1%83%D1%81%D0%B0">Закон Линуса</a>», говорит о том, что при
 достаточном числе проверяющих все программные ошибки всплывают на поверхность.
@@ -76,9 +76,9 @@
   
   <entry>
     <title type="html"><![CDATA[Прибежали в избу дети]]></title>
-    <link href="http://gazeta-shum.github.com/first/2011/01/21/diaspora/"/>
+    <link href="http://first.gazeta-shum.ru//2011/01/21/diaspora/"/>
     <updated>2011-01-21T20:50:20+06:00</updated>
-    <id>http://gazeta-shum.github.com/first/2011/01/21/diaspora</id>
+    <id>http://first.gazeta-shum.ru//2011/01/21/diaspora</id>
     <content type="html"><![CDATA[<p>Параноидальны ли <a href="http://gazeta-shum.ru/2010/10/geek/">гики</a>? Или лучше так: беспокоит ли гиков мания
 преследования? Если вспомнить, как они обожают двадцатизначные пароли и теории
 заговора — то, наверное, да, беспокоит. Читатели могут подумать, что я на
