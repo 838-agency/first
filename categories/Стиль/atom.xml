@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Поток: Стиль | Газета «Шум»]]></title>
-  <link href="http://first.gazeta-shum.ru//categories/Стиль/atom.xml" rel="self"/>
-  <link href="http://first.gazeta-shum.ru//"/>
-  <updated>2012-01-16T22:19:27+07:00</updated>
-  <id>http://first.gazeta-shum.ru//</id>
+  <link href="http://first.gazeta-shum.ru/categories/Стиль/atom.xml" rel="self"/>
+  <link href="http://first.gazeta-shum.ru/"/>
+  <updated>2012-01-17T22:05:31+07:00</updated>
+  <id>http://first.gazeta-shum.ru/</id>
   <author>
     <name><![CDATA[Газета «Шум»]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[И вечное лето]]></title>
-    <link href="http://first.gazeta-shum.ru//2011/05/25/summer/"/>
+    <link href="http://first.gazeta-shum.ru/2011/05/25/summer/"/>
     <updated>2011-05-25T22:47:15+07:00</updated>
-    <id>http://first.gazeta-shum.ru//2011/05/25/summer</id>
+    <id>http://first.gazeta-shum.ru/2011/05/25/summer</id>
     <content type="html"><![CDATA[<p><em>this is summer in the city<br />
 sand between toes<br />
 ices, ice melting, sweaty glasses<br />
@@ -121,9 +121,9 @@ days that never end</em></p>
   
   <entry>
     <title type="html"><![CDATA[Ирис и море]]></title>
-    <link href="http://first.gazeta-shum.ru//2011/05/03/iris/"/>
+    <link href="http://first.gazeta-shum.ru/2011/05/03/iris/"/>
     <updated>2011-05-03T20:06:55+07:00</updated>
-    <id>http://first.gazeta-shum.ru//2011/05/03/iris</id>
+    <id>http://first.gazeta-shum.ru/2011/05/03/iris</id>
     <content type="html"><![CDATA[<p>В общем-то мне сложно чётко зафиксировать момент, когда я поняла, что
 случилась любовь. Тем более, случилась она просто так, «нипочему». Первые
 парфюмерные воспоминания — это не мамины Mitsouko или что там было тогда,
@@ -210,9 +210,9 @@ Herrera 212 Sexy — запах приторно-сладких коктейле
   
   <entry>
     <title type="html"><![CDATA[Синдром нехватки]]></title>
-    <link href="http://first.gazeta-shum.ru//2010/12/10/syndrome/"/>
+    <link href="http://first.gazeta-shum.ru/2010/12/10/syndrome/"/>
     <updated>2010-12-10T14:50:27+06:00</updated>
-    <id>http://first.gazeta-shum.ru//2010/12/10/syndrome</id>
+    <id>http://first.gazeta-shum.ru/2010/12/10/syndrome</id>
     <content type="html"><![CDATA[<p>И вот когда наконец-то стало возможным найти, не сильно стараясь, белые
 хлопковые майки, прямые синие джинсы и ещё много других хороших «вещей эпохи»,
 некоторые из нас стали скучать по прошлому. Вам когда-нибудь хотелось носить
@@ -325,9 +325,9 @@ Adidas</strong> старого образца — <a href="http://www.grif.kiev.
   
   <entry>
     <title type="html"><![CDATA[Куртка-парка, anorak guy и смотритель маяка]]></title>
-    <link href="http://first.gazeta-shum.ru//2010/11/15/anorak/"/>
+    <link href="http://first.gazeta-shum.ru/2010/11/15/anorak/"/>
     <updated>2010-11-15T02:15:33+06:00</updated>
-    <id>http://first.gazeta-shum.ru//2010/11/15/anorak</id>
+    <id>http://first.gazeta-shum.ru/2010/11/15/anorak</id>
     <content type="html"><![CDATA[<p>Так сразу и не поймёшь, чем она красива — куртка рыбаков и моряков, куртка
 спасателей, военных и монтажников нефтепроводов, но я не могу пройти мимо. А
 может быть, дело в том, что она функциональна, удобна, тем и прекрасна.
@@ -375,9 +375,9 @@ Adidas</strong> старого образца — <a href="http://www.grif.kiev.
   
   <entry>
     <title type="html"><![CDATA[Вульгарно. Супер]]></title>
-    <link href="http://first.gazeta-shum.ru//2010/10/25/vulgar/"/>
+    <link href="http://first.gazeta-shum.ru/2010/10/25/vulgar/"/>
     <updated>2010-10-25T02:49:53+07:00</updated>
-    <id>http://first.gazeta-shum.ru//2010/10/25/vulgar</id>
+    <id>http://first.gazeta-shum.ru/2010/10/25/vulgar</id>
     <content type="html"><![CDATA[<p>«Вульгарно» — это почти всегда «плохо». Это некстати, неуместно, смешно и
 выдает провинциальность. В любом интернет-сообществе об одежде дружно
 <a href="http://community.livejournal.com/trendy_view/398692.html#comments">заклеймят</a> позором носительницу ботфорт или короткой юбки, красной помады
