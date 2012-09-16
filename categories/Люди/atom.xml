@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Поток: Люди | Газета «Шум»]]></title>
-  <link href="http://first.gazeta-shum.ru/categories/Люди/atom.xml" rel="self"/>
-  <link href="http://first.gazeta-shum.ru/"/>
-  <updated>2012-01-17T22:22:20+07:00</updated>
-  <id>http://first.gazeta-shum.ru/</id>
+  <link href="http://gazeta-shum.github.com/first/categories/Люди/atom.xml" rel="self"/>
+  <link href="http://gazeta-shum.github.com/first/"/>
+  <updated>2012-09-17T01:02:49+07:00</updated>
+  <id>http://gazeta-shum.github.com/first/</id>
   <author>
     <name><![CDATA[Газета «Шум»]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Огни больших городов: Санкт-Петербург, Москва]]></title>
-    <link href="http://first.gazeta-shum.ru/2010/11/21/spb-msk/"/>
+    <link href="http://gazeta-shum.github.com/first/2010/11/21/spb-msk/"/>
     <updated>2010-11-21T23:56:02+06:00</updated>
-    <id>http://first.gazeta-shum.ru/2010/11/21/spb-msk</id>
+    <id>http://gazeta-shum.github.com/first/2010/11/21/spb-msk</id>
     <content type="html"><![CDATA[<p><em>Это продолжение материала. Первая часть опубликована <a href="/2010/11/16/nsk/">здесь</a>.</em></p>
 
 <p><a href="http://www.flickr.com/photos/kenner116/4024963027/"><img src="https://lh6.googleusercontent.com/-JgtjW-Rd5AE/Tp2MTFTUVzI/AAAAAAAAAVA/EWAIctbzzcU/s320/4024963027_8f67b6f0f9_z.jpg" alt="Ken Marshall" /></a>
@@ -146,9 +146,9 @@
   
   <entry>
     <title type="html"><![CDATA[Огни больших городов: Новосибирск]]></title>
-    <link href="http://first.gazeta-shum.ru/2010/11/16/nsk/"/>
+    <link href="http://gazeta-shum.github.com/first/2010/11/16/nsk/"/>
     <updated>2010-11-16T17:12:48+06:00</updated>
-    <id>http://first.gazeta-shum.ru/2010/11/16/nsk</id>
+    <id>http://gazeta-shum.github.com/first/2010/11/16/nsk</id>
     <content type="html"><![CDATA[<p>Не знаю, как сейчас, а когда я заканчивала школу, мало кто из моих друзей-подруг
 не обдумывал идею глобального переезда. Цели у всех были примерно
 одинаковые — престижный ВУЗ, потом хорошая работа, интересные дела и люди
@@ -323,9 +323,9 @@
   
   <entry>
     <title type="html"><![CDATA[— Кто это? — Гик!]]></title>
-    <link href="http://first.gazeta-shum.ru/2010/10/13/geek/"/>
+    <link href="http://gazeta-shum.github.com/first/2010/10/13/geek/"/>
     <updated>2010-10-13T01:21:55+07:00</updated>
-    <id>http://first.gazeta-shum.ru/2010/10/13/geek</id>
+    <id>http://gazeta-shum.github.com/first/2010/10/13/geek</id>
     <content type="html"><![CDATA[<p>Когда начинаешь постоянно натыкаться на какое-то новое слово, это слегка
 раздражает. Похоже на чтение текста на английском, например, языке — знаешь
 все слова, кроме одного, а в нём одном вся суть. Неохота лезть в словарь, но

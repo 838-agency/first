@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Поток: Вещи | Газета «Шум»]]></title>
-  <link href="http://first.gazeta-shum.ru/categories/Вещи/atom.xml" rel="self"/>
-  <link href="http://first.gazeta-shum.ru/"/>
-  <updated>2012-01-17T22:22:20+07:00</updated>
-  <id>http://first.gazeta-shum.ru/</id>
+  <link href="http://gazeta-shum.github.com/first/categories/Вещи/atom.xml" rel="self"/>
+  <link href="http://gazeta-shum.github.com/first/"/>
+  <updated>2012-09-17T01:02:49+07:00</updated>
+  <id>http://gazeta-shum.github.com/first/</id>
   <author>
     <name><![CDATA[Газета «Шум»]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Наши зимние тренды]]></title>
-    <link href="http://first.gazeta-shum.ru/2010/12/25/trends/"/>
+    <link href="http://gazeta-shum.github.com/first/2010/12/25/trends/"/>
     <updated>2010-12-25T00:32:08+06:00</updated>
-    <id>http://first.gazeta-shum.ru/2010/12/25/trends</id>
+    <id>http://gazeta-shum.github.com/first/2010/12/25/trends</id>
     <content type="html"><![CDATA[<p>В нашем городе уже настоящие морозы, и главными вещами этой зимы мы назначаем
 снуд и ушанку. Да, мы определенно сходим по ним с ума.</p>
 
@@ -68,9 +68,9 @@
   
   <entry>
     <title type="html"><![CDATA[Молескин, и культ, и хлопок]]></title>
-    <link href="http://first.gazeta-shum.ru/2010/11/29/moleskine/"/>
+    <link href="http://gazeta-shum.github.com/first/2010/11/29/moleskine/"/>
     <updated>2010-11-29T14:23:49+06:00</updated>
-    <id>http://first.gazeta-shum.ru/2010/11/29/moleskine</id>
+    <id>http://gazeta-shum.github.com/first/2010/11/29/moleskine</id>
     <content type="html"><![CDATA[<p>Ухмыльнулись, прочитав заголовок? Да ладно, года через три я и про iPad
 напишу.</p>
 
@@ -104,9 +104,9 @@
   
   <entry>
     <title type="html"><![CDATA[Авиаторы]]></title>
-    <link href="http://first.gazeta-shum.ru/2010/10/11/aviators/"/>
+    <link href="http://gazeta-shum.github.com/first/2010/10/11/aviators/"/>
     <updated>2010-10-11T16:23:51+07:00</updated>
-    <id>http://first.gazeta-shum.ru/2010/10/11/aviators</id>
+    <id>http://gazeta-shum.github.com/first/2010/10/11/aviators</id>
     <content type="html"><![CDATA[<p>Спасибо военным летчикам США за то, что у нас есть очки-авиаторы. Именно для
 них в 1930 году компания Bausch &amp; Lomb придумала эти супер-очки уникальной
 формы. А в 1937-м бренд <a href="http://ru.wikipedia.org/wiki/Ray_Ban">Ray-Ban</a> сделал их мегапопулярными. Наверное,

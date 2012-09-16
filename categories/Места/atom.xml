@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Поток: Места | Газета «Шум»]]></title>
-  <link href="http://first.gazeta-shum.ru/categories/Места/atom.xml" rel="self"/>
-  <link href="http://first.gazeta-shum.ru/"/>
-  <updated>2012-01-17T22:22:20+07:00</updated>
-  <id>http://first.gazeta-shum.ru/</id>
+  <link href="http://gazeta-shum.github.com/first/categories/Места/atom.xml" rel="self"/>
+  <link href="http://gazeta-shum.github.com/first/"/>
+  <updated>2012-09-17T01:02:49+07:00</updated>
+  <id>http://gazeta-shum.github.com/first/</id>
   <author>
     <name><![CDATA[Газета «Шум»]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Кафе «Бомонд»]]></title>
-    <link href="http://first.gazeta-shum.ru/2011/03/20/bomond/"/>
+    <link href="http://gazeta-shum.github.com/first/2011/03/20/bomond/"/>
     <updated>2011-03-20T13:32:03+06:00</updated>
-    <id>http://first.gazeta-shum.ru/2011/03/20/bomond</id>
+    <id>http://gazeta-shum.github.com/first/2011/03/20/bomond</id>
     <content type="html"><![CDATA[<p>В ноябре 2009-го года я ходила в «Арт-кафе», что в здании Национального
 театра. Это было для проекта flavour-saviour, тайный ресторанный критик
 ужинал, защищая ваши интересы, вы, наверное, помните. Так вот, в ноябре
@@ -59,9 +59,9 @@
   
   <entry>
     <title type="html"><![CDATA[Кафе «Суши-бум»]]></title>
-    <link href="http://first.gazeta-shum.ru/2011/02/27/boom/"/>
+    <link href="http://gazeta-shum.github.com/first/2011/02/27/boom/"/>
     <updated>2011-02-27T21:44:58+06:00</updated>
-    <id>http://first.gazeta-shum.ru/2011/02/27/boom</id>
+    <id>http://gazeta-shum.github.com/first/2011/02/27/boom</id>
     <content type="html"><![CDATA[<p>Кафе «Суши-бум» — это часть комплекса «Под горой». Кроме кафе в него входит
 гостиница и прокат сноубордов и лыж. Находится всё у подножия горы Тугая —
 любимого места городских поклонников зимнего экстрима.</p>
@@ -97,9 +97,9 @@
   
   <entry>
     <title type="html"><![CDATA[Круиз и немножко нервно]]></title>
-    <link href="http://first.gazeta-shum.ru/2011/02/07/kruiz/"/>
+    <link href="http://gazeta-shum.github.com/first/2011/02/07/kruiz/"/>
     <updated>2011-02-07T19:59:24+06:00</updated>
-    <id>http://first.gazeta-shum.ru/2011/02/07/kruiz</id>
+    <id>http://gazeta-shum.github.com/first/2011/02/07/kruiz</id>
     <content type="html"><![CDATA[<p>«Круиз» — уже далеко не новое кафе на разъезде в Майме, всё руки не доходили
 написать про него, а надо было сделать это гораздо раньше. Почему? Да хотя бы
 потому, что в 2006-м, когда оно открылось, у владельцев было желание «сделать
@@ -143,9 +143,9 @@
   
   <entry>
     <title type="html"><![CDATA[Ревизия: магазины национальных сувениров в городе]]></title>
-    <link href="http://first.gazeta-shum.ru/2011/01/28/souvenirs/"/>
+    <link href="http://gazeta-shum.github.com/first/2011/01/28/souvenirs/"/>
     <updated>2011-01-28T21:40:10+06:00</updated>
-    <id>http://first.gazeta-shum.ru/2011/01/28/souvenirs</id>
+    <id>http://gazeta-shum.github.com/first/2011/01/28/souvenirs</id>
     <content type="html"><![CDATA[<p>С сувенирами национальной тематики в Горно-Алтайске всё, кажется, обстоит
 неплохо. Есть мастерские, студии, в городе занимаются резьбой и делают комусы.
 Мы прошлись по сувенирным магазинам и попытались выяснить у сотрудников, что у
@@ -263,9 +263,9 @@
   
   <entry>
     <title type="html"><![CDATA[Продуктовый магазин «Парнас»]]></title>
-    <link href="http://first.gazeta-shum.ru/2011/01/23/parnas/"/>
+    <link href="http://gazeta-shum.github.com/first/2011/01/23/parnas/"/>
     <updated>2011-01-23T23:50:06+06:00</updated>
-    <id>http://first.gazeta-shum.ru/2011/01/23/parnas</id>
+    <id>http://gazeta-shum.github.com/first/2011/01/23/parnas</id>
     <content type="html"><![CDATA[<p>Продуктовых магазинов в Горно-Алтайске много, но ассортимент, честно говоря,
 однообразен. Ни тебе разных сортов чая-кофе (в основном в пакетиках и
 растворимый), ни странных овощей, мало соусов, соков в стеклянных бутылках и
